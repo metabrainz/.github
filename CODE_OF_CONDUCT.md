@@ -11,6 +11,8 @@ This Code of Conduct describes how members of the MetaBrainz communities should 
 6. Respectfully suggest other options. Not everyone wants to reconfigure their directories, change their OS or switch players and formats.
 7. Try not to pick fights by [nit-picking](http://www.merriam-webster.com/dictionary/nitpicking) other contributors. Asking for a source or reason (if not provided by the contributor in a contribution) is OK; otherwise you can always submit your own edit to fix small errors or omissions. This is more productive.
 8. Use gender neutral language whenever possible. Unless actually talking about genders or specific people, there is no reason to use gendered language. As we touch older work that is not gender neutral, we should make an effort to make it gender neutral.
+9. Do not abuse or game any of our projects. All of our projects are community maintained and abusive actions negatively affect other users. Do not use or create [sockpuppets](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)), unauthorised bots, or any other means of circumventing the intent or integrity of our projects.
+
 
 Each project may also define a Code of Conduct of its own that builds on the MetaBrainz social contract. For instance, have a look at the [MusicBrainz Code of Conduct](https://musicbrainz.org/doc/Code_of_Conduct).
 
