@@ -14,7 +14,7 @@ This Code of Conduct describes how members of the MetaBrainz communities should 
 9. Do not abuse or game any of our projects. All of our projects are community maintained and abusive actions negatively affect other users. Do not use or create [sockpuppets](https://en.wikipedia.org/wiki/Sockpuppet_(Internet)), unauthorised bots, or any other means of circumventing the intent or integrity of our projects.
 
 
-Each project may also define a Code of Conduct of its own that builds on the MetaBrainz social contract. For instance, have a look at the [MusicBrainz Code of Conduct](https://musicbrainz.org/doc/Code_of_Conduct).
+Each project may also define a Code of Conduct of its own that builds on the MetaBrainz social contract. For instance, have a look at the [MusicBrainz Code of Conduct](https://musicbrainz.org/doc/Code_of_Conduct). Should you encounter a Code of Conduct violation and want to find out how we deal with infractions, please take a look at our [conflict resolution policy](https://metabrainz.org/conflict-policy).
 
 ----
 
